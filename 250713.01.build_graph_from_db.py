@@ -23,6 +23,7 @@ def load_api_key_from_ini(file_path="api.ini"):
 load_api_key_from_ini()
 
 
+# https://chatgpt.com/share/68771253-1f54-8001-ac2c-cbee6a9c58df
 # 상태 스키마 (공통)
 class SentimentState(TypedDict, total=False):
     input: str
