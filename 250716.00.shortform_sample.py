@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from moviepy.editor import *
 from PIL import Image, ImageDraw, ImageFont
 import numpy as np
